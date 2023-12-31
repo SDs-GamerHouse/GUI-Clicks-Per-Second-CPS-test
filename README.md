@@ -1,0 +1,1 @@
+# GUI-Clicks-Per-Second-CPS-test
